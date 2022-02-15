@@ -1,0 +1,2 @@
+# Sensor_Data_Analysis_using_NEURAL_NETWORKS
+The goal of the project is to build a supervised neural network that can detect whether a person is running or walking based on sensor data collected from an iOS device.  The available dataset contains 4000 samples of sensor data collected from the accelerometer and gyroscope of an iPhone 5c with an interval of 10 seconds and a frequency of ~5.4/second.
